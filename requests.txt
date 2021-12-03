@@ -1,9 +1,0 @@
-Recommandation du produit 0
-for i, e, p in 2..2 any
-    "product/0" watched
-    return i
-
-Recommandation du user 0
-for i, e, p in 3..3 any
-    "customer/0" watched
-    return i
